@@ -1,11 +1,33 @@
-<h1 align="center">Hi 👋, I'm Ece Tekin</h1>
-- 📫 How to reach me etekin1964@gmail.com
+<h<h1 align="center">Hi 👋, I'm Ece Tekin</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Software Developer</h3>
+
+- 📫 How to reach me: **etekin1964@gmail.com**
+
+<br>
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ece-tekin-bb7006247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ece-tekin-bb7006247/" height="30" width="40" /></a>
+<a href="LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ecetekin03">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:etekin1964@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h2>Connect with me:</h2>
 
+<a href="LINKEDIN_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<h2>Languages and Tools:</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,git,github,vscode" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
